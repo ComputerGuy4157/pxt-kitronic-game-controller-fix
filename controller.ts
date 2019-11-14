@@ -7,14 +7,14 @@ namespace Kitronik_Game_Controller {
 	/**
 	*:GAME Controller Standard Buttons
 	*/
-	export enum ControllerButtons {
-	    Up,
-	    Down,
-	    Left,
-	    Right,
-	    Fire1,
-	    Fire2
-	}
+    export enum ControllerButtons {
+        Up,
+        Down,
+        Left,
+        Right,
+        Fire1,
+        Fire2
+    }
 
     /**
     *:GAME Controller Button Pins

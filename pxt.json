@@ -11,10 +11,12 @@
         "controller.ts",
         "shims.d.ts",
         "enums.d.ts",
-        "controller.cpp"
+        "controller.cpp",
+        "main.ts"
     ],
     "testFiles": [
         "tests.ts"
     ],
-    "public": true
+    "public": true,
+    "preferredEditor": "tsprj"
 }
