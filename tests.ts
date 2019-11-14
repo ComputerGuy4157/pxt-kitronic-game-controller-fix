@@ -4,7 +4,7 @@
 //The ‘forever’ loop uses blocks which output ‘True’ or ‘False’ to check whether particular buttons on the Controller have been pressed, and then uses an ‘if else’ statement to trigger different outputs. 
 //When Fire 1 is pressed, the buzzer will play a short tune, and when Fire 2 is pressed, the motor will vibrate for 250ms. 
 
-Kitronik_Game_Controller.onButtonPress(Kitronik_Game_Controller.ControllerButtonPins.Right, Kitronik_Game_Controller.ControllerButtonEvents.Down, function () {
+/* Kitronik_Game_Controller.onButtonPress(Kitronik_Game_Controller.ControllerButtonPins.Right, Kitronik_Game_Controller.ControllerButtonEvents.Down, function () {
     basic.showArrow(ArrowNames.East)
 })
 Kitronik_Game_Controller.onButtonPress(Kitronik_Game_Controller.ControllerButtonPins.Up, Kitronik_Game_Controller.ControllerButtonEvents.Down, function () {
@@ -23,4 +23,4 @@ basic.forever(function () {
     } else if (Kitronik_Game_Controller.buttonIsPressed(Kitronik_Game_Controller.ControllerButtonPins.Fire2)) {
         Kitronik_Game_Controller.runMotor(250)
     }
-})
+}) */
