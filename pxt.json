@@ -1,7 +1,7 @@
 {
-    "name": "pxt-kitronik-game-controller",
-    "version": "0.0.1",
-    "description": "Blocks for driving the Kitronik :GAME Controller",
+    "name": "pxt-kitronik-game-controller-fix",
+    "version": "0.0.2",
+    "description": "my epic gamer fix for the controller",
     "license": "MIT",
     "dependencies": {
         "core": "*"
